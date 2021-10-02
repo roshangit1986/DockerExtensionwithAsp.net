@@ -1,0 +1,7 @@
+{
+    "docker.containers.description": [
+        "ContainerName",
+        "Status",
+        "Compose Project Name"
+    ]
+}
